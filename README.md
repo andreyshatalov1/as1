@@ -27,6 +27,8 @@
 финальные расчеты: https://docs.google.com/spreadsheets/d/19c0IJzIEhQ4GyTbGcvUKHi0yV6QMpgu4/edit?usp=sharing&ouid=103430393011237072251&rtpof=true&sd=true
 
 итоговый калькулятор: https://docs.google.com/presentation/d/1oadudY0EN93jLi38sp4n61py5XF_0bHc/edit?usp=sharing&ouid=103430393011237072251&rtpof=true&sd=true
+Визуализация и выводы:
+https://github.com/andreyshatalov1/as1/blob/main/%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD-%D0%BA%D0%B8%D0%BD%D0%BE%20%D0%B2%D0%B8%D0%B7%D1%83%D0%B0%D0%BB.pptx
 
 ИТОГИ:
 1. много не популярных фильмов
