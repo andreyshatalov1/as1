@@ -114,5 +114,5 @@
 2. проверить гипотезы
 3. предложить варианты решения проблемы
 
-Сылка на проект: https://docs.google.com/presentation/d/1r429w6GL7GVCzvMdEdbZOBZGUQc7ncsz/edit?usp=drive_link&ouid=103430393011237072251&rtpof=true&sd=true
+Сылка на проект: https://github.com/andreyshatalov1/as1/blob/main/%D0%9C%D0%B5%D1%82%D0%BE%D0%B4%D0%B8%D0%BA%D0%B0%20%D0%BF%D1%80%D0%BE%D0%B2%D0%B5%D1%80%D0%BA%D0%B8%20%D0%BF%D1%80%D0%BE%D1%81%D1%80%D0%BE%D1%87%D0%BA%D0%B8%20%D0%BD%D0%BE%D0%B2%D1%8B%D1%85%20%D0%BF%D0%BE%D0%BA%D0%BE%D0%BB%D0%B5%D0%B9%20%20%D0%BA%D0%BB%D0%B8%D0%B5%D0%BD%D1%82%D0%BE%D0%B2.pptx
 
